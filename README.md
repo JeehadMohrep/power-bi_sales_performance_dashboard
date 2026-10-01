@@ -25,8 +25,8 @@ The objective of this project is to analyze sales performance, monitor key busin
 - Evaluated return rates and their impact on overall sales.
 - Identified trends and patterns to support business decision-making.
 
-- ## Dashboard Preview
+## Dashboard Preview
 
-![Sales Dashboard](Screenshot 2026-09-20 174001ا)
+![Sales Dashboard](Screenshot%202026-09-20%20174001.png)
 
 - 
