@@ -29,4 +29,17 @@ The objective of this project is to analyze sales performance, monitor key busin
 
 ![Sales Dashboard](Screenshot%202026-09-20%20174001.png)
 
+## Project Files
+
+- Power BI Dashboard: `star schema 2.pbix`
+- Dashboard Screenshot: `Screenshot 2026-09-20 174001.png`
+
+- ## Skills Demonstrated
+
+- Data Analysis
+- Data Visualization
+- Business Intelligence
+- Dashboard Design
+- Sales Performance Analysis
+
 - 
