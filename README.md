@@ -1,2 +1,32 @@
-# power-bi_sales_performance_dashboard
-power BI dashboard for analyzing sales performance and key business insights
+# Power BI Sales Performance Dashboard
+
+A Power BI dashboard designed to analyze sales performance and provide clear business insights through interactive visualizations and key performance indicators.
+
+## Tools Used
+
+- Power BI
+- Power Query
+- DAX
+
+- ## Project Objective
+
+The objective of this project is to analyze sales performance, monitor key business metrics, and identify trends that can support data-driven decision-making.
+
+## Key KPIs
+
+- Total Sales
+- Total Orders
+- Return Rate
+- Sales Performance
+
+- ## Key Insights
+
+- Analyzed sales performance across different periods and categories.
+- Evaluated return rates and their impact on overall sales.
+- Identified trends and patterns to support business decision-making.
+
+- ## Dashboard Preview
+
+![Sales Dashboard](Screenshot 2026-09-20 174001ا)
+
+- 
